@@ -60,5 +60,5 @@ Different satellite trajectories allowed for comprehensive measurements of **Sol
 
 ## Contact
 
-If you'd like to learn more or collaborate on space weather research, feel free to reach out via GitHub or [LinkedIn](#).
+If you'd like to learn more or collaborate on space weather research, feel free to reach out via GitHub or [LinkedIn](<https://www.linkedin.com/in/manikanagpal/>).
 
