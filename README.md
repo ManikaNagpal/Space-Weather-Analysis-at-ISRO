@@ -38,7 +38,7 @@ Different satellite trajectories allowed for comprehensive measurements of **Sol
 | `IREM.avi`                 | Visual analysis of IREM-INTEGRAL data (ESA)         |
 | `SREM.avi`                 | Visual analysis of SREM-PROBA data (ESA)            |
 | `GOES.avi`                 | Visual analysis of SEM-GOES data (NASA)             |
-| `Space_Weather_Report.pdf` | Detailed report summarizing the entire analysis     |
+| `Report.pdf`               | Detailed report summarizing the entire analysis     |
 
 ---
 
