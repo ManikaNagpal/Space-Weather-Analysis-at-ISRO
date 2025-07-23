@@ -50,14 +50,6 @@ Different satellite trajectories allowed for comprehensive measurements of **Sol
 
 ---
 
-## Next Steps & Future Work
-
-- Use more advanced data processing and machine learning techniques for predictive analysis.
-- Expand the dataset to cover multiple years for a **long-term space weather model**.
-- Collaborate with aviation, satellite, and defense agencies to build real-time monitoring tools.
-
----
-
 ## Contact
 
 If you'd like to learn more or collaborate on space weather research, feel free to reach out via GitHub or [LinkedIn](<https://www.linkedin.com/in/manikanagpal/>).
