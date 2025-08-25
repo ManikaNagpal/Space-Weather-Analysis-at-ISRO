@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the results of a collaborative space weather analysis project conducted during my time at **ISRO**. The focus of this study was on understanding the **particle environment of Earth during the Halloween Solar Storm (October–November 2003)** by analyzing **proton flux data** from three satellite detectors:
+This repository contains the results of a collaborative space weather analysis project conducted during my time at **ISRO**. The focus of this study was on understanding the **particle environment of Earth during the Halloween Solar Storm (October–November 2003)** by analyzing data from three satellite detectors:
 
 - **IREM-INTEGRAL** *(ESA)*  
 - **SREM-PROBA** *(ESA)*  
