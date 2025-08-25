@@ -1,4 +1,4 @@
-# Space Weather Analysis Using Satellite Proton Flux Data
+# Space Weather Analysis Using Satellite Particle Detectors' Data
 
 ## Overview
 
